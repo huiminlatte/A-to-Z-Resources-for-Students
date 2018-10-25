@@ -4,8 +4,9 @@
 
 > ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
-### Finding resources to learn a new coding language? Want to meet new people in your community? Or are you searching for hackathons, global conferences, competitions to attend? 
-### Check this out for a compilation of resources to improve your coding skills significantly! 
+### Finding resources to learn a new coding language? Want to meet new people in your community? Are you searching for hackathons, global conferences or competitions to attend? 
+### Check this out for a compilation of resources that can improve your coding skills significantly! 
+###
 
 When I was in college, I missed a opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer from the same problems. Hence, a bunch of other developers from all around and I have collected a list of resources for students, or working professionals. If you are in college or a college graduate or just starting out as a developer, you should definitely CHECK IT OUT!
 
