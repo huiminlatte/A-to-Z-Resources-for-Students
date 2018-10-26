@@ -1,12 +1,14 @@
 ﻿# A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Feel free to show your love :heart: by giving a star :star:
+> ## Show your love :heart: by giving a star :star:!
 
 > ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
-### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
+### Finding resources to learn a new coding language? Want to meet new people in your community? Are you searching for hackathons, global conferences or competitions to attend? 
+### Check this out for a compilation of resources that can improve your coding skills significantly! 
+###
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a developer, you should definitely check it out!
+When I was in college, I missed a opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer from the same problems. Hence, a bunch of other developers from all around and I have collected a list of resources for students, or working professionals. If you are in college or a college graduate or just starting out as a developer, you should definitely CHECK IT OUT!
 
 ![Image](res/xx.gif)
 
